@@ -1,5 +1,5 @@
 # neural-quantum-state-sg [DATASET LINK](https://zenodo.org/records/11534964)
-## Dataset form "Zero-temperature Monte Carlo simulations of two-dimensional quantum spin glasses guided by neural network states" [10.1103/PhysRevE.110.065305]
+## Dataset form "Zero-temperature Monte Carlo simulations of two-dimensional quantum spin glasses guided by neural network states" [10.1103/PhysRevE.110.065305](https://doi.org/10.1103/PhysRevE.110.065305)
 
 ### 2D QUANTUM EDWARDS-ANDERSON  GROUND-STATE DATASET:
 The dataset contains coupling and energy data for 50 instances of a 2D quantum Edwards-Anderson model at Gamma (transverse field) = 1.8, featuring N=LxL=100 spins on a square lattice of side-length L=10 with periodic boundary conditions. The couplings are sampled from a Gaussian distribution with zero mean and unit variance.
