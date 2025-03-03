@@ -1,4 +1,4 @@
-# neural-quantum-state-sg [DATASET LINK] (https://zenodo.org/records/11534964)
+# neural-quantum-state-sg [DATASET LINK](https://zenodo.org/records/11534964)
 ## Dataset form "Zero-temperature Monte Carlo simulations of two-dimensional quantum spin glasses guided by neural network states" [10.1103/PhysRevE.110.065305]
 
 ### 2D QUANTUM EDWARDS-ANDERSON  GROUND-STATE DATASET:
